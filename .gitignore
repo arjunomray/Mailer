@@ -1,0 +1,5 @@
+*_names.csv
+cookies
+__pycache__
+venv
+.env
